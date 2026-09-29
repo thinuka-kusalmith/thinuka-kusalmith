@@ -1,4 +1,9 @@
-# Hi there, I'm Thinuka Kusalmith 👋
+<div align="center">
+  <h1>Hi there, I'm Thinuka Kusalmith 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20BEFF&center=true&vCenter=true&width=800&height=60&lines=Data+Analyst+%26+Full-Stack+Developer;Building+AI+%26+Embedded+Systems;Algorithmic+Trading+Enthusiast;Cybersecurity+%26+Hardware" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -64,7 +69,10 @@ Welcome to my digital workspace! I specialize in bridging the gap between data, 
 **Data & AI:** Pandas, Kaggle, Local LLMs, Whisper, Machine Learning  
 **Hardware & Security:** ESP32-S3, Kali Linux, Wireshark, Metasploit  
 **Trading & Finance:** MetaTrader 5, TradingView (PineScript), SMC/ICT Strategies  
-
+### 📊 GitHub Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thinuka-kusalmith&bg_color=0D1117&color=20BEFF&line=20BEFF&point=FFFFFF&hide_border=true&theme=tokyonight" alt="Activity Graph" />
+</div>
 ### 📈 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
